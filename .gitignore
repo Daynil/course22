@@ -9,6 +9,7 @@ paddy-disease-classification/
 titanic*
 bird_or_not/
 datasets
+models/
 
 *.swp
 ~*
@@ -142,4 +143,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
