@@ -1,0 +1,122 @@
+[
+    {
+        "bird_name": "Northern Cardinal",
+        "feeder_frequency": "92"
+    },
+    {
+        "bird_name": "Mourning Dove",
+        "feeder_frequency": "86"
+    },
+    {
+        "bird_name": "Red-bellied Woodpecker",
+        "feeder_frequency": "81"
+    },
+    {
+        "bird_name": "Blue Jay",
+        "feeder_frequency": "81"
+    },
+    {
+        "bird_name": "Northern Mockingbird",
+        "feeder_frequency": "67"
+    },
+    {
+        "bird_name": "Tufted Titmouse",
+        "feeder_frequency": "65"
+    },
+    {
+        "bird_name": "Carolina Wren",
+        "feeder_frequency": "61"
+    },
+    {
+        "bird_name": "American Goldfinch",
+        "feeder_frequency": "57"
+    },
+    {
+        "bird_name": "Yellow-rumped Warbler",
+        "feeder_frequency": "56"
+    },
+    {
+        "bird_name": "Downy Woodpecker",
+        "feeder_frequency": "52"
+    },
+    {
+        "bird_name": "Carolina Chickadee",
+        "feeder_frequency": "49"
+    },
+    {
+        "bird_name": "Gray Catbird",
+        "feeder_frequency": "46"
+    },
+    {
+        "bird_name": "House Finch",
+        "feeder_frequency": "43"
+    },
+    {
+        "bird_name": "American Crow",
+        "feeder_frequency": "41"
+    },
+    {
+        "bird_name": "Pine Warbler",
+        "feeder_frequency": "41"
+    },
+    {
+        "bird_name": "Common Grackle",
+        "feeder_frequency": "40"
+    },
+    {
+        "bird_name": "Chipping Sparrow",
+        "feeder_frequency": "39"
+    },
+    {
+        "bird_name": "Ruby-throated Hummingbird",
+        "feeder_frequency": "37"
+    },
+    {
+        "bird_name": "Brown Thrasher",
+        "feeder_frequency": "37"
+    },
+    {
+        "bird_name": "American Robin",
+        "feeder_frequency": "33"
+    },
+    {
+        "bird_name": "Painted Bunting",
+        "feeder_frequency": "33"
+    },
+    {
+        "bird_name": "Common Ground-Dove",
+        "feeder_frequency": "33"
+    },
+    {
+        "bird_name": "Brown-headed Cowbird",
+        "feeder_frequency": "33"
+    },
+    {
+        "bird_name": "House Sparrow",
+        "feeder_frequency": "27"
+    },
+    {
+        "bird_name": "Red-winged Blackbird",
+        "feeder_frequency": "6"
+    },
+    {
+        "bird_name": "Eastern Bluebird",
+        "feeder_frequency": "6"
+    },
+    {
+        "bird_name": "White-winged Dove",
+        "feeder_frequency": "6"
+    },
+    {
+        "bird_name": "Baltimore Oriole",
+        "feeder_frequency": "6"
+    },
+    {
+        "bird_name": "Eurasian Collared-Dove",
+        "feeder_frequency": "6"
+    },
+    {
+        "bird_name": "Indigo Bunting",
+        "feeder_frequency": "6"
+    }
+]
