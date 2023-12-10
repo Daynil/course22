@@ -10,6 +10,7 @@ titanic*
 bird_or_not/
 datasets
 models/
+tmp
 
 *.swp
 ~*
