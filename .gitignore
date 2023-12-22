@@ -9,6 +9,7 @@ paddy-disease-classification/
 titanic*
 bird_or_not/
 datasets
+data
 models/
 tmp
 
